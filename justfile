@@ -3,5 +3,6 @@
 default:
     @echo "Hello from kleinbem-dev/fleet-demo!"
 
+# No tests yet: say so instead of reporting a pass.
 test:
-    @echo "All fleet-demo tests passed!"
+    @echo "fleet-demo has no tests configured."
